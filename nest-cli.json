@@ -1,9 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/nest-cli",
   "collection": "@nestjs/schematics",
-  "sourceRoot": "apps/ordering-app-nest/src",
+  "sourceRoot": "apps/orders/src",
   "monorepo": true,
-  "root": "apps/ordering-app-nest",
+  "root": "apps/orders",
   "compilerOptions": {
     "webpack": true,
     "tsConfigPath": "apps/orders/tsconfig.app.json"
