@@ -1,2 +1,2 @@
-export * from './abstract.repository';
-export * from './abstract.schema';
+export * from './database/abstract.repository';
+export * from './database/abstract.schema';
